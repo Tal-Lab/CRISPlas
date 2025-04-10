@@ -29,6 +29,8 @@ The `CRISPlas` pipeline is a Python-based tool designed to analyze plasmid seque
    - Add the BLAST+ binaries to your system's PATH.
 
 3. Create a BLAST database for the spacers:
+   - Download the database from http://crispr.genome.ulaval.ca/?form=MG0AV3. Alternative databses might require modification of the code.
+   - run the following command:
    ```bash
    makeblastdb -in spacers_db.fasta -dbtype nucl -out Spacers_db
    ```
