@@ -121,6 +121,11 @@ The `CRISPlas` pipeline is a Python-based tool designed to analyze plasmid seque
 
 ---
 
+### **How to cite?**
+1.  Androsiuk, L., Maane, S. & Tal, S. CRISPR spacers acquired from plasmids primarily target backbone genes, making them valuable for predicting potential hosts and host range. Microbiol. Spectr. 12, e00104-24 (2024).
+  
+---
+
 #### **Troubleshooting**
 1. **BLAST Command Not Found**:
    - Ensure `blastn` is installed and added to your system's PATH.
