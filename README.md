@@ -1,6 +1,6 @@
 
 #### **Overview**
-The `CRIPlas` pipeline is a Python-based tool designed to analyze plasmid sequences against a spacers database using BLAST and perform downstream taxonomic lineage extraction, unique organism identification, and host range analysis. The pipeline consists of four main steps:
+The `CRISPlas` pipeline is a Python-based tool designed to analyze plasmid sequences against a spacers database using BLAST and perform downstream taxonomic lineage extraction, unique organism identification, and host range analysis. The pipeline consists of four main steps:
 1. **BLAST Search**: Matches plasmid sequences against a spacers database.
 2. **Lineage Extraction**: Extracts taxonomic lineage information for matched sequences.
 3. **Unique Organism Identification**: Processes lineage data to identify unique plasmid-organism combinations.
@@ -50,7 +50,7 @@ The `CRIPlas` pipeline is a Python-based tool designed to analyze plasmid sequen
 
    Execute the script:
    ```bash
-   python CRIPlas.py
+   python CRISPlas.py
    ```
 
 ---
