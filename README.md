@@ -149,7 +149,8 @@ Attribution:
 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 For more details, see the Creative Commons License (https://creativecommons.org/licenses/by/4.0/).
-**---
+
+---
 
 #### **Contact**
 For questions or issues, please contact [shay.tal@ocean.org.il].
