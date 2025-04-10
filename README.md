@@ -60,7 +60,7 @@ The `CRISPlas` pipeline is a Python-based tool designed to analyze plasmid seque
    - Matches plasmid sequences against the spacers database using the following parameters:
      - `-evalue 1e-5`: E-value threshold for significant matches.
      - `-max_target_seqs 1`: Limits results to the top hit per query.
-     - `-perc_identity 100`: Filters matches to only those with 100% identity.
+     - Optional: `-perc_identity 100`: Filters matches to only those with 100% identity.
    - Output: `blast_results.txt`.
 
 2. **Lineage Extraction**:
